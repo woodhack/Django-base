@@ -1,4 +1,4 @@
-# Portfolio site
+# Django base project with Bootstrap 5
 
 **Creating site**
 
